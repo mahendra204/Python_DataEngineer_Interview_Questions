@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fdfeef35-127c-4199-a150-aaf9fe8d362b)# Python_DataEngineer_Interview_Questions
+# Python_DataEngineer_Interview_Questions
 
 Q1. What is a Module In Python? Explain it by Writing Code. 
 
